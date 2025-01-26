@@ -7,6 +7,31 @@ Low Level Design (LLD):
 
 -> Drawing the Class Diagrams will be helpful for better understanding the follows
 
+What are the problems you will face in you don't follow proper standards in LLD?
+
+-> If introducting new features:
+   -> We might need to touch existing feature code which might introduce new bugs in existing system
+   -> Testing time would also be effected as we have to test new features as well as existing ones
+   -> It increases time and resources for completing the new feature
+
+-> If product is stable and no new features introduced (maintainance)
+   -> some bug is present in the code we have to debug the code
+   -> performance issues might need to fixed
+   -> Dependency Libraries updates/change 
+
+Why LLD is important for a software?
+
+-> LLD holds the key on how efficiently the software performs and enhancing the system
+
+-> Below principles should be followed for good design:
+
+1. Readability
+2. Maintainability
+3. Extensibility
+4. Understandable
+5. Modular
+6. Re-Usable
+
 Class Diagrams Contains
 -> Classes
 -> Relations

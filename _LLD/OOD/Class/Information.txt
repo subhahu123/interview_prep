@@ -1,0 +1,8 @@
+Class:
+-> blueprint of entity, groups properties and behaviours
+-> it is the structure on how object is built
+
+Examples:
+-> When you are building a house we create a blueprint(which is the class) and based on blueprint
+we construct the actual house(which is object). Each Object has same blueprint but have different
+attributes value and behaviours

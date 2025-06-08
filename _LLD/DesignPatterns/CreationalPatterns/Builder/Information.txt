@@ -1,5 +1,6 @@
 Builder Pattern:
 -> It is creational design pattern
+-> this can be used if the class object needs a so many props to create a valid object
 -> provides a way to construct complex object step by step
 -> The pattern allows you to produce different types and 
 representations of an object using the same construction code.

@@ -33,7 +33,9 @@ NVT (Noun verb Technique):
 Techniques of OOD
 The following are the four principles of object-oriented programming:
 
-1. Encapsulation
+1. Encapsulation: 
+    -bundling of data(attributes) and methods (functionality) into a single unit called as Class
+    - Restricting of direct access to the date (providing security)
 2. Abstraction
 3. Inheritance
 4. Polymorphism

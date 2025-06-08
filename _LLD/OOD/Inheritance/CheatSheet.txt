@@ -2,6 +2,10 @@ Inheritance:
 -> this is Principle is about getting a entity properties and methods from another entity
 ->  It is a mechanism where you can to derive a class from another class for a hierarchy of classes that share a set of attributes and methods.
 
+Inheritance helps:
+-> code reusability
+-> property reusability
+
 Real-World Examples:
 -> The class 'Car' inherits its properties from the class 'Automobiles' which inherits some of its properties from another class 'Vehicles'
 
